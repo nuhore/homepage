@@ -63,3 +63,27 @@ section {
     font-size: 1.4em;
   }
 }
+/* メディアクエリ：モバイル対応 */
+@media (max-width: 600px) {
+  .container {
+    padding: 15px;
+  }
+
+  h1 {
+    font-size: 1.8em;
+  }
+
+  h2 {
+    font-size: 1.4em;
+  }
+}
+
+/* 装飾用クラス */
+.sample_text04 {
+  display: inline-block;
+  font-weight: bold;
+  border-left: solid 3px #38b3f2;
+  margin: 0 auto 50px;
+  padding: 5px 0 5px 5px;
+}
+
