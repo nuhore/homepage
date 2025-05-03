@@ -77,13 +77,3 @@ section {
     font-size: 1.4em;
   }
 }
-
-/* 装飾用クラス */
-.sample_text04 {
-  display: inline-block;
-  font-weight: bold;
-  border-left: solid 3px #38b3f2;
-  margin: 0 auto 50px;
-  padding: 5px 0 5px 5px;
-}
-
